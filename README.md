@@ -1,0 +1,2 @@
+# SimuladorDeTemperatura
+Proyecto Ing Software
